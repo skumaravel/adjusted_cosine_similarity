@@ -4,6 +4,7 @@ Implementation of Adjusted Cosine Similarity
 Created on Fri Jan  4 15:00:24 2019
 
 @author: sujeeth.kumaravel
+@reference: http://www10.org/cdrom/papers/519/node14.html 
 """
 
 import numpy as np
